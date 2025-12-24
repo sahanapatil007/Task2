@@ -1,0 +1,3 @@
+<h2>Calculator Project</h2>
+
+<p>This is a simple web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and modern design with a visually appealing gradient background, interactive buttons with hover and click effects, and a clear (C) button to reset the display. Users can input numbers and operations using the on-screen buttons and get the result by pressing the equals (=) button. The project demonstrates the use of HTML for structure, CSS for styling, and JavaScript for handling calculations and updating the user interface dynamically</p>
